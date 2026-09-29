@@ -6,4 +6,8 @@ Bu bölümde "Kodluyoruz" kapsamında aldığım "Yazılıma İlk Adım - Front 
 
 <p>Bu ödev kapsamında, web geliştirme yolculuğumdaki ilk adımı atarak temel HTML etiketlerini kullanarak ilk web sayfamı oluşturdum. Bu projede, öğrendiğim HTML bilgilerini pratiğe dökerek, sayfanın içerik bölümünde kendimle ilgili temel düzeyde kişisel bilgiler sunarak basit ama işlevsel bir web sayfası tasarladım. Bu çalışma, web teknolojileriyle etkileşimimin başlangıcını temsil ediyor.</p>
 
-<img src="https://github.com/StarLordBerke4/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/HTML/%C3%96devler/HTML%20%C3%96dev%201/resimler/HTMLOdev1.png" />
+<img src="https://github.com/StarLordBerke/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/HTML/%C3%96devler/HTML%20%C3%96dev%201/resimler/HTMLOdev1.png" />
+
+---
+
+*Geliştirici: Berke Mert Öztürk*
