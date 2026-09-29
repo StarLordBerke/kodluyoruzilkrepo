@@ -15,5 +15,7 @@ Bu bölümde "Kodluyoruz" kapsamında aldığım "Yazılıma İlk Adım - Front 
 <img src="https://github.com/StarLordBerke/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/CSS/%C3%96devler/CSS%20%C3%96dev%201%20Sevdi%C4%9Fim%20Yazar%20JRR%20Tolkien/resimler/resimler4.png" />
 <br>
 <img src="https://github.com/StarLordBerke/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/CSS/%C3%96devler/CSS%20%C3%96dev%201%20Sevdi%C4%9Fim%20Yazar%20JRR%20Tolkien/resimler/ileti%C5%9Fim5.png" />
+
 ---
+
 *Geliştirici: Berke Mert Öztürk*
