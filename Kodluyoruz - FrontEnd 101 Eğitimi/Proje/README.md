@@ -7,6 +7,10 @@ Bu bölümde, Kodluyoruz'un "Yazılıma İlk Adım - Front End Web Geliştirme" 
 
 <p>Günümüzde dijitalleşmenin hayatımızın her alanına nüfuz etmesiyle birlikte, geleneksel özgeçmişler (CV'ler) de artık yerini yavaş yavaş dijital ortama bırakıyor. Basılı bir kağıdın sınırlılıklarının aksine, kişisel bir web sayfası bireyin yeteneklerini, projelerini ve deneyimlerini çok daha interaktif ve görsel bir biçimde sunma imkanı tanıyor. Bu nedenle, her bireyin kendine ait, dinamik ve güncellenebilir bir kişisel web sitesine sahip olması, hem profesyonel kimliğini güçlendirmek hem de dijital ayak izini oluşturmak adına artık bir zorunluluk haline geldi. Bu proje, sadece bir özgeçmiş olmanın ötesinde, benim dijital varlığımı temsil eden ve sürekli olarak geliştirebileceğim bir platform olarak tasarlandı.</p>
 
-<img src="https://github.com/StarLordBerke4/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/Proje/AnaSayfa.png" />
+<img src="https://github.com/StarLordBerke/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/Proje/AnaSayfa.png" />
 <br>
-<img src="https://github.com/StarLordBerke4/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/Proje/%C4%B0letisim.png" />
+<img src="https://github.com/StarLordBerke/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/Proje/%C4%B0letisim.png" />
+
+---
+
+*Geliştirici: Berke Mert Öztürk*
